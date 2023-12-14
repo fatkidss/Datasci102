@@ -11,3 +11,4 @@ torch
 tensorflow
 keras
 ultralytics
+omegaconf
